@@ -1,0 +1,15 @@
+Soal:
+Buatlah bintang piramida terbalik dengan menggunakan template HTML yang sudah ada.
+Anda tinggal menambahkan elemen HTML untuk memasukan jumlah bintang yang ingin ditampilkan.
+Setelah itu anda buat kode php untuk menampilkan piramida sesuai dengan jumlah yang dimasukan ke
+form html.
+
+Contoh jika diinput 2,akan mengeluarkan
+**
+*
+
+Jika memasukan 3, akan mengeluarkan
+
+***
+**
+*
